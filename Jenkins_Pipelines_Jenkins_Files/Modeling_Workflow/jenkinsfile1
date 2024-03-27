@@ -2,7 +2,7 @@ pipeline {
     
     agent any
     environment {
-        RELEASE='21.3'
+        RELEASE='MINT 21.3'
     }
 
     stages {
